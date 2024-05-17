@@ -1,0 +1,53 @@
+.logo {
+  display: flex;
+  margin-top: 130px;
+  margin-left: 50px;
+}
+.logo .gif {
+  height: 280px;
+  width: 250px;
+}
+.logo .title {
+  margin-top: 100px;
+}
+.logo .title .robovitics {
+  margin-left: 50px;
+  height: 30px;
+  width: 200px;
+}
+.logo .title .robowars {
+  margin-top: 20px;
+  width: 300px;
+}
+.buttons {
+  margin-top: 30px;
+  margin-left: 70px;
+  display: flex;
+  gap: 30px;
+}
+.buttons button {
+  color: white;
+  border-radius: 10px;
+  padding: 15px 60px;
+}
+#button1 {
+  background-color: #784afa;
+  padding: 15px 60px;
+}
+#button2 {
+  border-color: #784afa;
+  background: rgba(0, 0, 0, 0);
+}
+button:hover {
+  cursor: pointer;
+}
+.master {
+  margin-top: 40px;
+  display: flex;
+}
+.master .pic {
+  margin-top: 30px;
+  margin-left: 120px;
+  height: 550px;
+  width: 700px;
+}

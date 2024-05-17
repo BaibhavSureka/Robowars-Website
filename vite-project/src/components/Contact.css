@@ -1,0 +1,33 @@
+.contact {
+  display: flex;
+  gap: 150px;
+  margin: 50px 50px;
+}
+.banner {
+  display: flex;
+}
+.links h2 {
+  margin-top: 40px;
+  margin-left: 50px;
+  font-size: 50px;
+}
+.links i {
+  margin-top: 30px;
+  font-size: 30px;
+  margin-left: 40px;
+}
+.banner img {
+  margin-left: 40px;
+  height: 200px;
+}
+.phones {
+  display: flex;
+  gap: 50px;
+}
+.phone {
+  margin-top: 30px;
+  text-align: center;
+}
+.phones h3 {
+  color: white;
+}

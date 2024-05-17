@@ -1,0 +1,23 @@
+.pub {
+  margin: 50px 70px;
+  margin-top: 50px;
+  display: flex;
+}
+.pub img {
+  border: 2px solid white;
+  padding: 10px;
+}
+
+.vert1 .i1 {
+  margin-bottom: 20px;
+  padding-top: -90px;
+}
+.vert1 .i2 {
+  margin-top: -25px;
+}
+.vert2 .i1 {
+  margin-top: 0px;
+}
+.vert2 .i2 {
+  margin-top: -7px;
+}
