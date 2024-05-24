@@ -1,0 +1,33 @@
+.loader {
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  z-index: 999;
+}
+.blinder-container {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+.blinder {
+  background-color: rgb(12, 4, 27);
+  height: 100vh;
+  transform-origin: top;
+  flex: 1;
+}
+.waves {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.mask {
+  transform: translateY(-10%);
+}
+body {
+  overflow-y: hidden;
+}
