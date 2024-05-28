@@ -7,6 +7,7 @@ body {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(./assets/desktop-wallpaper-premium-wave-abstract-purple-wave-animation-seamless-loop-purple-technology-background.jpg)
       center/cover fixed no-repeat;
+  overflow-x: hidden;
 }
 
 .divider {
